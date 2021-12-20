@@ -1,16 +1,21 @@
-# GRAND OFFICIAL
+<h1>𝓟𝓡𝓞 𝓜𝓐𝓜𝓑𝓐</h1>
 
-DEPLOY HERE - [GRAND OFFICIAL](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT)
+ıllıllı⭐🌟 B͙O͙T͙ L͙O͙G͙O͙ 🌟⭐ıllıllı
+
+[![PROMAMBA 𝙱𝙾𝚃 ℓσgσ](https://telegra.ph/file/145436dd8dc78b9f44828.jpg)](https://t.me/MAMBA_X_SUPPORT) 
+[![MAMBA 𝙱𝙾𝚃 ℓσgσ]( https://telegra.ph/file/ea68644f59bdaf57fd61e.jpg)](https://t.me/MAMBA_X_SUPPORT)                       
+                       
+ıllıllı⭐🌟 d͙e͙p͙l͙o͙y͙ 🌟⭐ıllıllı
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/MAMBAXPRO)
+<p><a href=https://github.com/SUKHPAL443/MAMBAXPRO> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+
+ıllıllı⭐🌟 C͙R͙E͙D͙I͙T͙S͙ 🌟⭐ıllıllı
+
 [.](https://heroku.com/deploy)
-Credits - [LEGEND X](https://t.me/legendx22)
+ Credits - [DEADLY-FIGHTERS](https://t.me/DEADLY-FIGHTERS)
 
-# TELEGRAM
-Check me on [TELEGRAM](https://t.me/grand50_bot)
-# TUTORIAL [OFFICIAL VIDEO](https://youtu.be/JK9cLTDZUR0)
+ CONTACT ME ON TELEGRAM:>>>>>>>
+ [![Owner](https://telegra.ph/file/3af984f455d98e274ea1b.jpg)](https://t.me/MAMBA_STAR)
 
-<details>
-<summary> CREDITS </summary>
-<h1> LEGEND X </h1>
-<h1> PROBOY X </h1>
-<h1> TEAMLEGEND </h1>
-</details>
+DONT FORK WITHOUT OWNER'S PERMISSION
