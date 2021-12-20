@@ -1,14 +1,14 @@
 import logging
 import os
 import sys
-import time
+import json
 import telegram.ext as tg
 try:
-  os.system("pip install -U LEGENDX")
-  from LEGENDX import id
+  os.system("pip install -U MAMBAPROX")
+  from MAMBAXPRO import id
 except:
-  os.system("pip install LEGENDX")
-  from LEGENDX import id
+  os.system("pip install MAMBAXPRO")
+  from MAMBAXPRO import id
 StartTime = time.time()
 
 # enable logging
